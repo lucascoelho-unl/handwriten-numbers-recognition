@@ -18,7 +18,7 @@ Research Topics:
 
 # Step 2: Understand the Dataset
 ## 2.1 Obtain the MNIST Dataset
-    Instructions:
+   Instructions:
    - Download the Dataset: Obtain the MNIST dataset, which consists of 70,000 handwritten digit images.
      - Training set: 60,000 images.
      - Test set: 10,000 images.
